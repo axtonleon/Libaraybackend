@@ -1,0 +1,9 @@
+fastapi
+sqlalchemy
+python-dotenv
+passlib
+psycopg2-binary
+fastapi[all]
+
+# Added for recommendations
+scikit-learn
