@@ -6,5 +6,6 @@ psycopg2-binary
 fastapi[all]
 python-jose
 pandas
+bcrypt
 # Added for recommendations
 scikit-learn
