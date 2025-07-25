@@ -4,6 +4,6 @@ python-dotenv
 passlib
 psycopg2-binary
 fastapi[all]
-
+python-jose
 # Added for recommendations
 scikit-learn
